@@ -1,0 +1,116 @@
+  {
+    "companyName": "Tech Innovators Inc.",
+    "companyLocation": "San Francisco, CA",
+    "companyDate": "2024-06-15T03:58:00Z",
+    "companyDateTime": "2024-12-19T03:58:00Z",
+    "branches": [
+      {
+        "branchNameNA": "North America HQ",
+        "branchNameEU": "EU Branch",
+        "teams": [
+          {
+            "teamNameSD": "Software Development",
+            "teamNameMK": "Marketing",
+            "members": [
+              {
+                "id": "M1",
+                "name": "Alice Johnson",
+                "role": "Lead Developer",
+                "salary": "120000",
+                "tasks": [
+                  {
+                    "taskId": "55",
+                    "description": "Develop new API",
+                    "status": "In Progress"
+                  },
+                  {
+                    "taskId": "49",
+                    "description": "Refactor legacy code",
+                    "status": "Completed"
+                  }
+                ],
+                "campaigns": [
+                  {
+                    "campaignId": "C1",
+                    "name": "Product Launch",
+                    "status": "Ongoing"
+                  }
+                ]
+              },
+              {
+                "id": "M2",
+                "name": "Bob Smith",
+                "role": "Marketing Strategist",
+                "salary": "95000",
+                "tasks": [
+                  {
+                    "taskId": "56",
+                    "description": "Create marketing plan",
+                    "status": "Completed"
+                  }
+                ],
+                "campaigns": [
+                  {
+                    "campaignId": "C2",
+                    "name": "Holiday Promotion",
+                    "status": "Completed"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "teamNameSD": "Product Management",
+            "teamNameMK": "Sales",
+            "members": [
+              {
+                "id": "M3",
+                "name": "Charlie Brown",
+                "role": "Product Manager",
+                "salary": "115000",
+                "tasks": [
+                  {
+                    "taskId": "66",
+                    "description": "Define product roadmap",
+                    "status": "In Progress"
+                  }
+                ],
+                "campaigns": [
+                  {
+                    "campaignId": "C3",
+                    "name": "New Product Rollout",
+                    "status": "Ongoing"
+                  }
+                ]
+              },
+              {
+                "id": "M4",
+                "name": "Dana White",
+                "role": "Sales Lead",
+                "salary": "105000",
+                "tasks": [
+                  {
+                    "taskId": "77",
+                    "description": "Coordinate sales efforts",
+                    "status": "Completed"
+                  }
+                ],
+                "campaigns": [
+                  {
+                    "campaignId": "02",
+                    "name": "End of Year Promotion",
+                    "status": "Completed"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "anotherBranchElement": "AnotherGroup",
+        "otype": "independent",
+        "oitems": ["itemA", "itemB"]
+      }
+    ]
+  }

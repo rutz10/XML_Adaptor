@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Company>
+    <CompanyName>Tech Innovators Inc.</CompanyName>
+    <CompanyDate>2024-06-14</CompanyDate>
+    <GGs>
+        <GG></GG>
+    </GGs>
+    <Branches>
+        <Branch>
+            <BranchNA>North America HQ</BranchNA>
+            <BranchEU>EU Branch</BranchEU>
+            <Teams>
+                <Team>
+                    <TeamSD>Software Development</TeamSD>
+                    <TeamMK>Marketing</TeamMK>
+                    <Members>
+                        <Member>
+                            <Id>M1</Id>
+                            <Name>Alice Johnson</Name>
+                            <Role>Lead Developer</Role>
+                            <Salary>120000</Salary>
+                            <Tasks>
+                                <Task>
+                                    <TaskId>55</TaskId>
+                                    <Description>Develop new API</Description>
+                                    <Status>In Progress</Status>
+                                </Task>
+                                <Task>
+                                    <TaskId>49</TaskId>
+                                    <Description>Refactor legacy code</Description>
+                                    <Status>Completed</Status>
+                                </Task>
+                            </Tasks>
+                            <Campaigns>
+                                <Campaign>
+                                    <CampaignId>C1</CampaignId>
+                                    <CampaignName>Product Launch</CampaignName>
+                                    <CampaignStatus>Ongoing</CampaignStatus>
+                                </Campaign>
+                            </Campaigns>
+                        </Member>
+                        <Member>
+                            <Id>M2</Id>
+                            <Name>Bob Smith</Name>
+                            <Role>Marketing Strategist</Role>
+                            <Salary>95000</Salary>
+                            <Tasks>
+                                <Task>
+                                    <TaskId>56</TaskId>
+                                    <Description>Create marketing plan</Description>
+                                    <Status>Completed</Status>
+                                </Task>
+                            </Tasks>
+                            <Campaigns>
+                                <Campaign>
+                                    <CampaignId>C2</CampaignId>
+                                    <CampaignName>Holiday Promotion</CampaignName>
+                                    <CampaignStatus>Completed</CampaignStatus>
+                                </Campaign>
+                            </Campaigns>
+                        </Member>
+                    </Members>
+                </Team>
+                <Team>
+                    <TeamSD>Product Management</TeamSD>
+                    <TeamMK>Sales</TeamMK>
+                    <Members>
+                        <Member>
+                            <Id>M3</Id>
+                            <Name>Charlie Brown</Name>
+                            <Role>Product Manager</Role>
+                            <Salary>115000</Salary>
+                            <Tasks>
+                                <Task>
+                                    <TaskId>66</TaskId>
+                                    <Description>Define product roadmap</Description>
+                                    <Status>In Progress</Status>
+                                </Task>
+                            </Tasks>
+                            <Campaigns>
+                                <Campaign>
+                                    <CampaignId>C3</CampaignId>
+                                    <CampaignName>New Product Rollout</CampaignName>
+                                    <CampaignStatus>Ongoing</CampaignStatus>
+                                </Campaign>
+                            </Campaigns>
+                        </Member>
+                        <Member>
+                            <Id>M4</Id>
+                            <Name>Dana White</Name>
+                            <Role>Sales Lead</Role>
+                            <Salary>105000</Salary>
+                            <Tasks>
+                                <Task>
+                                    <TaskId>77</TaskId>
+                                    <Description>Coordinate sales efforts</Description>
+                                    <Status>Completed</Status>
+                                </Task>
+                            </Tasks>
+                            <Campaigns>
+                                <Campaign>
+                                    <CampaignId>02</CampaignId>
+                                    <CampaignName>End of Year Promotion</CampaignName>
+                                    <CampaignStatus>Completed</CampaignStatus>
+                                </Campaign>
+                            </Campaigns>
+                        </Member>
+                    </Members>
+                </Team>
+            </Teams>
+        </Branch>
+        <Branch>
+            <BranchAdditional>AnotherGroup</BranchAdditional>
+        </Branch>
+    </Branches>
+</Company>

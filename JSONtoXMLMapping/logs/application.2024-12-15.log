@@ -1,0 +1,714 @@
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.companyName
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Tech Innovators Inc.
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@42a15bdc
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Tech Innovators Inc.
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.companyLocation
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: San Francisco, CA
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@1e097d59
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: San Francisco, CA
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.branchNameNA
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: North America HQ
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@673be18f
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: North America HQ
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.branchNameEU
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: EU Branch
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@6581dc0a
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: EU Branch
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.teamNameSD
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Software Development
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@39de3d36
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Software Development
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.teamNameMK
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Marketing
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@6ce86ce1
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Marketing
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.id
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: M1
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@54e7df6a
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: M1
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.name
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Alice Johnson
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@3fed2870
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Alice Johnson
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.role
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Lead Developer
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@77128536
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Lead Developer
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.salary
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: 120000
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: Decimal
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@58326051
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: 120000
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.taskId
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: T1
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@32c4e8b2
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: T1
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.description
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Develop new API
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@64bce832
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Develop new API
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.status
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: In Progress
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@764faa6
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: In Progress
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.taskId
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: T2
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@4c1f22f3
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: T2
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.description
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Refactor legacy code
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@598bd2ba
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Refactor legacy code
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.status
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Completed
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@5a755cc1
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Completed
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.campaignId
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: C1
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@7ae42ce3
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: C1
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.name
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Product Launch
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@4f5991f6
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Product Launch
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.status
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Ongoing
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@484094a5
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Ongoing
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.id
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: M2
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@38234a38
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: M2
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.name
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Bob Smith
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@63fbfaeb
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Bob Smith
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.role
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Marketing Strategist
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@602e0143
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Marketing Strategist
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.salary
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: 95000
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: Decimal
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@2c07545f
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: 95000
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.taskId
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: T3
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@e57b96d
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: T3
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.description
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Create marketing plan
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@32c726ee
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Create marketing plan
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.status
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Completed
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@22f31dec
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Completed
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.campaignId
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: C2
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@34c01041
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: C2
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.name
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Holiday Promotion
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@76f4b65
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Holiday Promotion
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.status
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Completed
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@c94fd30
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Completed
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.teamNameSD
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Product Management
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@36328d33
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Product Management
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.teamNameMK
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Sales
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@2c4d1ac
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Sales
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.id
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: M3
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@7f0d96f2
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: M3
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.name
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Charlie Brown
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@545b995e
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Charlie Brown
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.role
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Product Manager
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@76a2ddf3
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Product Manager
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.salary
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: 115000
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: Decimal
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@524f3b3a
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: 115000
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.taskId
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: T4
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@41e68d87
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: T4
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.description
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Define product roadmap
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@49ff7d8c
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Define product roadmap
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.status
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: In Progress
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@29526c05
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: In Progress
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.campaignId
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: C3
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@2ef14fe
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: C3
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.name
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: New Product Rollout
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@77102b91
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: New Product Rollout
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.status
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Ongoing
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@45312be2
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Ongoing
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.id
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: M4
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@7fb95505
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: M4
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.name
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Dana White
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@58be6e8
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Dana White
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.role
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Sales Lead
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@7331196b
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Sales Lead
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.salary
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: 105000
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: Decimal
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@3f9342d4
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: 105000
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.taskId
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: T5
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@ab7395e
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: T5
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.description
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Coordinate sales efforts
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@50d13246
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Coordinate sales efforts
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.status
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Completed
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@2bd08376
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Completed
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.campaignId
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: C4
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@e70f13a
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: C4
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.name
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: End of Year Promotion
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@3d3e5463
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: End of Year Promotion
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.status
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Completed
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@64a40280
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Completed
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.companyName
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Global Enterprises Ltd.
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@4b40f651
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Global Enterprises Ltd.
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.companyLocation
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: New York, NY
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@42b02722
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: New York, NY
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.branchNameNA
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: North America HQ
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@d62fe5b
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: North America HQ
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.branchNameEU
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: EU Branch
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@49964d75
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: EU Branch
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.teamNameSD
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Software Development
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@528c868
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Software Development
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.teamNameMK
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Marketing
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@466276d8
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Marketing
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.id
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: M5
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@5ce8d869
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: M5
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.name
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: James Miller
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@27eedb64
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: James Miller
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.role
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Senior Developer
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@64c63c79
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Senior Developer
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.salary
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: 130000
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: Decimal
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@31c7528f
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: 130000
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.taskId
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: T6
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@2b76ff4e
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: T6
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.description
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Optimize codebase
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@7a1234bf
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Optimize codebase
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.status
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Completed
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@2f62ea70
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Completed
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.taskId
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: T7
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@24ba9639
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: T7
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.description
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Implement new features
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@38aa816f
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Implement new features
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.status
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: In Progress
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@53f6fd09
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: In Progress
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.campaignId
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: C5
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@6bffbc6d
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: C5
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.name
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Spring Collection Launch
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@1b84f475
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Spring Collection Launch
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.status
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Ongoing
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@7749bf93
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Ongoing
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.id
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: M6
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@13330ac6
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: M6
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.name
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Sarah Davis
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@539d019
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Sarah Davis
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.role
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Digital Marketing Specialist
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@39a2bb97
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Digital Marketing Specialist
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.salary
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: 105000
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: Decimal
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@3ad2e17
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: 105000
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.taskId
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: T8
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@8c3619e
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: T8
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.description
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Run ad campaigns
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@4331d187
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Run ad campaigns
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.status
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Completed
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@6f63b475
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Completed
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.campaignId
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: C6
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@554e218
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: C6
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.name
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Summer Sale
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@1608bcbd
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Summer Sale
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.status
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Completed
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@5bf8fa12
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Completed
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.teamNameSD
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Product Management
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@29ca3d04
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Product Management
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.teamNameMK
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Sales
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@b2c5e07
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Sales
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.id
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: M7
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@5812f68b
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: M7
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.name
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Eve Walker
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@4426bff1
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Eve Walker
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.role
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Product Manager
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@3c7c886c
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Product Manager
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.salary
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: 125000
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: Decimal
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@55493582
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: 125000
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.taskId
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: T9
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@1a20270e
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: T9
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.description
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Conduct product review
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@6b88ca8c
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Conduct product review
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.status
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: In Progress
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@336f1079
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: In Progress
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.campaignId
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: C7
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@2f16c6b3
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: C7
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.name
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Product Expansion
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@34158c08
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Product Expansion
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.status
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Ongoing
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@19e4fcac
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Ongoing
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.id
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: M8
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@52c3cb31
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: M8
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.name
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Lucas Harris
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@4b79ac84
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Lucas Harris
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.role
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Sales Manager
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@53941c2f
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Sales Manager
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.salary
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: 110000
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: Decimal
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@6dab9b6d
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: 110000
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.taskId
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: T10
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@21fd5faa
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: T10
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.description
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Negotiate contracts
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@2766ca9d
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Negotiate contracts
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.status
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Completed
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@5460cf3a
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Completed
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.campaignId
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: C8
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@65a15628
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: C8
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.name
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Quarterly Sales Drive
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@2e6a5539
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Quarterly Sales Drive
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Starting transformation for field: $.status
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value: Completed
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Mapping expression: 
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Expected XML type: String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Source value data type: java.lang.String
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Evaluating expression with context: org.apache.commons.jexl3.MapContext@3fc9504b
+2024-12-15 17:29:16 [main] INFO  o.rutz.AttributeLevelTransformation - Transformation resulted in null value, returning source value: Completed

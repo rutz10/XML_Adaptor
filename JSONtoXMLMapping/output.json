@@ -1,0 +1,87 @@
+{
+  "company": {
+    "name": "Tech Solutions",
+    "location": "New York",
+    "departments": [
+      {
+        "departmentObject": {
+          "departmentName": "Engineering"
+        },
+        "employees": [
+          {
+            "id": 1,
+            "name": "Alice",
+            "role": "Software Engineer",
+            "skills": [
+              "Java",
+              "Python",
+              "JavaScript"
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Bob",
+            "role": "DevOps Engineer",
+            "skills": [
+              "AWS",
+              "Docker",
+              "Kubernetes"
+            ]
+          }
+        ]
+      },
+      {
+        "departmentObject": {
+          "departmentName": "Sales"
+        },
+        "employees": [
+          {
+            "id": 3,
+            "name": "Charlie",
+            "role": "Sales Manager",
+            "skills": [
+              "Negotiation",
+              "Salesforce"
+            ]
+          },
+          {
+            "id": 4,
+            "name": "David",
+            "role": "Sales Representative",
+            "skills": [
+              "Customer Relationship Management",
+              "Lead Generation"
+            ]
+          }
+        ]
+      }
+    ],
+    "Derived_departments": [
+      {
+        "departmentObject": {
+          "departmentName": "Sales"
+        },
+        "employees": [
+          {
+            "id": 3,
+            "name": "Charlie",
+            "role": "Sales Manager",
+            "skills": [
+              "Negotiation",
+              "Salesforce"
+            ]
+          },
+          {
+            "id": 4,
+            "name": "David",
+            "role": "Sales Representative",
+            "skills": [
+              "Customer Relationship Management",
+              "Lead Generation"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

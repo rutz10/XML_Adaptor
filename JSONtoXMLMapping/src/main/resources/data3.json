@@ -1,0 +1,47 @@
+{
+  "company": {
+    "name": "Tech Solutions",
+    "location": "New York",
+    "ind": {},
+    "departments": [
+      {
+        "departmentObject":	{
+          "departmentName": "Engineering"
+        },
+        "employees": [
+          {
+            "id": 1,
+            "name": null,
+            "role": "Software Engineer",
+            "skills": ["Java", "Python", "JavaScript"]
+          },
+          {
+            "id": 2,
+            "name": "Bob",
+            "role": "DevOps Engineer",
+            "skills": []
+          }
+        ]
+      },
+      {
+        "departmentObject":	{
+              "departmentName": "Sales"
+        },
+        "employees": [
+          {
+            "id": 3,
+            "name": "Charlie",
+            "role": "Sales Manager",
+            "skills": ["Negotiation", "Salesforce"]
+          },
+          {
+            "id": 4,
+            "name": "David",
+            "role": "Sales Representative",
+            "skills": [""]
+          }
+        ]
+      }
+    ]
+  }
+}
