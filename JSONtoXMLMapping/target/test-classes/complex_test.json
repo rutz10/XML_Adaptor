@@ -1,0 +1,144 @@
+{
+  "company": {
+    "name": "TechCorp Global",
+    "founded": 1998,
+    "public": true,
+    "mainDepartments": [
+      {
+        "id": "D001",
+        "name": "Engineering",
+        "headCount": 85,
+        "active": true,
+        "teams": ["Frontend", "Backend", "QA"]
+      },
+      {
+        "id": "D002",
+        "name": "Marketing",
+        "headCount": 45,
+        "active": true,
+        "teams": ["Digital", "Brand"]
+      },
+      {
+        "id": "D003",
+        "name": "Archive",
+        "headCount": 0,
+        "active": false
+      }
+    ],
+    "satelliteOffices": {
+      "departments": [
+        {
+          "id": "SD001",
+          "name": "R&D",
+          "headCount": 30,
+          "active": true
+        },
+        {
+          "id": "SD002",
+          "name": "Sales",
+          "headCount": 25,
+          "active": true
+        }
+      ]
+    },
+    "staffDirectory": [
+      {
+        "id": "E001",
+        "name": "John Doe",
+        "position": "Software Engineer",
+        "department": "Engineering"
+      },
+      {
+        "id": "E002",
+        "name": "Jane Smith",
+        "position": "Product Manager",
+        "department": "Engineering"
+      },
+      {
+        "id": "E003",
+        "name": "Mike Johnson",
+        "position": "Marketing Specialist",
+        "department": "Marketing"
+      }
+    ],
+    "contractStaff": [
+      {
+        "id": "C001",
+        "name": "Sarah Williams",
+        "position": "UI Designer"
+      },
+      {
+        "id": "C002",
+        "name": "Tom Brown",
+        "position": "Database Admin"
+      }
+    ],
+    "offices": [
+      {
+        "name": "Headquarters",
+        "address": {
+          "street": "123 Tech Street",
+          "city": "San Francisco",
+          "state": "CA",
+          "zip": "94105"
+        },
+        "capacity": 500
+      },
+      {
+        "name": "East Branch",
+        "address": {
+          "street": "456 Innovation Ave",
+          "city": "Boston",
+          "state": "MA",
+          "zip": "02110"
+        },
+        "capacity": 200
+      },
+      {
+        "name": "Remote Hub",
+        "address": {
+          "street": "789 Digital Blvd",
+          "city": "Austin",
+          "state": "TX",
+          "zip": "73301"
+        },
+        "capacity": 150
+      }
+    ],
+    "projects": {
+      "active": [
+        {
+          "code": "P001",
+          "name": "Website Redesign",
+          "manager": "John Doe",
+          "deadline": "2023-12-31",
+          "priority": "High"
+        },
+        {
+          "code": "P002",
+          "name": "Mobile App",
+          "manager": "Jane Smith",
+          "deadline": "2024-03-15",
+          "priority": "Medium"
+        }
+      ],
+      "upcoming": [
+        {
+          "code": "P003",
+          "name": "AI Integration",
+          "manager": "Mike Johnson",
+          "deadline": "2024-06-30",
+          "priority": "Low"
+        }
+      ],
+      "completed": [
+        {
+          "code": "P000",
+          "name": "Legacy System",
+          "manager": "Former Employee",
+          "completedDate": "2022-11-15"
+        }
+      ]
+    }
+  }
+} 

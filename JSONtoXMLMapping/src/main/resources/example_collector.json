@@ -1,0 +1,28 @@
+{
+  "company": {
+    "name": "Global Corp",
+    "branchList": [
+      { 
+        "id": "B100", 
+        "name": "North Hub", 
+        "location": { "city": "New York" }, 
+        "isActive": true, 
+        "type": "Regional" 
+      },
+      { 
+        "id": "B101", 
+        "name": "West Wing", 
+        "location": { "city": "London" }, 
+        "isActive": false, 
+        "type": "Local" 
+      }
+    ],
+    "mainBranch": { 
+      "id": "B200", 
+      "name": "HQ", 
+      "location": { "city": "Paris" }, 
+      "type": "Central" 
+    },
+    "alternateBranchInfo": "LEGACY001"
+  }
+} 

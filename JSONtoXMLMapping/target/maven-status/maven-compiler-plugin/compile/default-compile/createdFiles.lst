@@ -5,12 +5,8 @@ org\rutz\ExpressionEvaluator.class
 org\rutz\JsonUtils.class
 org\rutz\JsonToXmlSteam.class
 org\rutz\MappingGenerator.class
-org\rutz\PreProcess.class
-org\rutz\JsonArrayFilter.class
+org\rutz\DemoCollectorMapping.class
 org\rutz\Mapping.class
+org\rutz\CollectorMappingDemo.class
 org\rutz\util\DivisionExample.class
-org\rutz\MappingGenerator1.class
 org\rutz\AttributeLevelTransformation.class
-org\rutz\JsonCopyUtil.class
-org\rutz\PreProcess$1.class
-org\rutz\GenericJsonCopier.class

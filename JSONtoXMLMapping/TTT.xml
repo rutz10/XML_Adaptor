@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organization>
+    <Departments>
+        <Department>
+            <DepartmentID>D001</DepartmentID>
+            <DepartmentName>Engineering</DepartmentName>
+            <HeadCount>85</HeadCount>
+            <Status>Active</Status>
+        </Department>
+        <Department>
+            <DepartmentID>D002</DepartmentID>
+            <DepartmentName>Marketing</DepartmentName>
+            <HeadCount>45</HeadCount>
+            <Status>Active</Status>
+        </Department>
+        <Department>
+            <DepartmentID>D003</DepartmentID>
+            <DepartmentName>Archive</DepartmentName>
+            <HeadCount>0</HeadCount>
+            <Status>Active</Status>
+        </Department>
+        <Department>
+            <DepartmentID>SD001</DepartmentID>
+            <DepartmentName>GGG</DepartmentName>
+            <HeadCount>30</HeadCount>
+        </Department>
+        <Department>
+            <DepartmentID>SD002</DepartmentID>
+            <DepartmentName>Sales</DepartmentName>
+            <HeadCount>25</HeadCount>
+        </Department>
+    </Departments>
+    <Employees>
+        <Employee>
+            <EmployeeID>E001</EmployeeID>
+            <FullName>John Doe</FullName>
+        </Employee>
+        <Employee>
+            <EmployeeID>E002</EmployeeID>
+            <FullName>Jane Smith</FullName>
+        </Employee>
+        <Employee>
+            <EmployeeID>E003</EmployeeID>
+            <FullName>Mike Johnson</FullName>
+        </Employee>
+        <Employee>
+            <Status>Inactive</Status>
+            <FullName>GAmer</FullName>
+        </Employee>
+        <Employee>
+            <FullName>Legacy System</FullName>
+            <Status>Deactive</Status>
+            <FullName>Former Employee</FullName>
+        </Employee>
+    </Employees>
+</Organization>

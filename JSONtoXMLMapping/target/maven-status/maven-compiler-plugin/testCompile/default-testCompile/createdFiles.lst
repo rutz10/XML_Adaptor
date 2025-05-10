@@ -1,0 +1,4 @@
+JsonToXmlStreamTest.class
+org\rutz\CollectorMappingTest.class
+TransformerExpressionFunctionsTest.class
+AttributeLevelTransformationTest.class

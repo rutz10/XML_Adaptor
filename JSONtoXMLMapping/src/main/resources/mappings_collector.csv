@@ -1,0 +1,13 @@
+jPath,xPath,isList,jsonType,xmlType,expression,namespace,parentXPath,order,isCollector,sourceFeedJPaths,conditionJPath,defaultValue
+$.company.name,Company/CompanyName,No,string,element,,,Company,10,No,,,
+,Company/Branches,No,,element,,,Company,20,Yes,"$.company.branchList[*];$.company.mainBranch;$.company.alternateBranchInfo",,
+.,Company/Branches/Branch,No,object,element,,,Company/Branches,10,No,,,
+id,Company/Branches/Branch/BranchID,No,string,element,,,Company/Branches/Branch,10,No,,,
+name,Company/Branches/Branch/BranchName,No,string,element,,,Company/Branches/Branch,20,No,,,
+location.city,Company/Branches/Branch/City,No,string,element,,,Company/Branches/Branch,30,No,,,
+.,Company/Branches/Branch/LegacyCode,No,string,element,,,Company/Branches/Branch,35,No,,,
+,Company/Branches/Branch/Status,No,string,element,,,Company/Branches/Branch,40,No,,isActive,Active
+,Company/Branches/Branch/Status,No,string,element,,,Company/Branches/Branch,41,No,,,Inactive
+type,Company/Branches/Branch/BranchType,No,string,element,,,Company/Branches/Branch,50,No,,,
+,Company/Branches/Branch/Region,No,string,element,,,Company/Branches/Branch,60,No,,name,DefaultRegion
+$,Company,No,object,element,,,,0,No,,, 

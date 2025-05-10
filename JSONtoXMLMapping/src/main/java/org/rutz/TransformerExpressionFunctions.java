@@ -11,8 +11,8 @@ import java.util.List;
 
 public class TransformerExpressionFunctions {
 
-    public String addFive(int val) {
-        return val + 1000 + "";
+    public String addFive(String val) {
+        return "Gamerrrrrr";
     }
 
     // Function to convert UTC to EST and return the full datetime
