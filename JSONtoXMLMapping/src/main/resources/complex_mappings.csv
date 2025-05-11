@@ -10,11 +10,12 @@ id,DepartmentID,No,string,element,,,Department,10,No,,,
 name,DepartmentName,No,string,element,,,Department,20,No,,,
 headCount,HeadCount,No,number,element,,,Department,30,No,,,
 ,Status,No,string,element,,,Department,40,No,,active,Active
-,Employees,No,,element,,,Organization,30,Yes,"$.company.staffDirectory[*];$.company;$.company.projects.completed",,
+,Employees,No,,element,,,Organization,30,Yes,"$.company.staffDirectory[*];$.company;$.company.projects",,
 .,Employee,No,object,element,,,Employees,10,No,,,
-id,EmployeeID,No,string,element,,,Employee,10,No,,,
-$.name,FullName,No,string,element,,,Employee,20,No,,,
+id,EmployeeID,No,string,element,,,Employee,10,No,,id,
+name,FullName,No,string,element,,,Employee,20,No,,name,
 ,Status,No,string,string,,,Employee,40,No,,otherfullname,Inactive
-otherfullname,FullName,No,string,string,,,Employee,50,No,,,
+otherfullname,FullName,No,string,string,,,Employee,50,No,,otherfullname,
 ,Status,No,string,string,,,Employee,60,No,,manager,Deactive
-manager,FullName,No,string,string,,,Employee,70,No,,,
+completed.manager,FullName,No,string,string,,,Employee,70,No,,completed.manager,
+completed.dname,Employee/FullName,No,string,string,,,Employees,80,No,,completed.dname,

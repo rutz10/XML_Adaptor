@@ -9,27 +9,39 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.List;
+import java.nio.file.Path;
+import java.nio.charset.StandardCharsets;
+import java.util.stream.Collectors;
+
+import static org.junit.jupiter.api.Assertions.assertNotNull;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class JsonToXmlStreamTest {
 
     @Test
     public void testJsonToXmlTransformation() throws IOException, CsvValidationException, Exception{
+        // Use relative paths for resources
+        Path jsonFilePath = Paths.get("src/main/resources/complex_company.json");
+        Path csvFilePath = Paths.get("src/main/resources/complex_mappings.csv");
+
         // Read JSON data from a resource file
-        String jsonData = new String(Files.readAllBytes(Paths.get("src/main/resources/complex_company.json")));
+        String jsonData = Files.readString(jsonFilePath, StandardCharsets.UTF_8);
 
-        String csvFile = "C:\\Users\\rushi\\Downloads\\CursorProject\\XML_Adaptor-main\\JSONtoXMLMapping\\src\\main\\resources\\complex_mappings.csv";
-
-        // Step 3: Transform JSON to XML using JsonToXmlMapper
-        List<Mapping> mappings = MappingGenerator.readMappingsFromCsv(csvFile);
+        // Read mappings from CSV
+        List<Mapping> mappings = MappingGenerator.readMappingsFromCsv(csvFilePath.toString());
 
         // Transform JSON to XML
-        JsonToXmlSteam.transformJsonToXml(jsonData, mappings, "TTT.xml");
+        String outputFilePath = "TTT.xml";
+        JsonToXmlSteam jsonToXmlSteam = new JsonToXmlSteam();
+        jsonToXmlSteam.transformJsonToXml(jsonData, mappings, outputFilePath);
 
-        System.out.println("XML file created successfully!");
+        // Read the generated XML file
+        String generatedXml = Files.lines(Paths.get(outputFilePath)).collect(Collectors.joining(System.lineSeparator()));
 
-        // Assert that the XML string is not null
-//        assertNotNull(xmlString);
+        // Assert that the XML file is not empty
+        assertNotNull(generatedXml);
+        assertTrue(generatedXml.contains("<Organization>"), "XML should contain Organization element");
 
-        // You can further assert the correctness of the XML string using XML parsing libraries or comparison tools.
+        // Additional assertions can be added here to verify the XML content
     }
 }

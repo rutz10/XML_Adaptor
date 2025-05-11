@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Organization>
+    <CompanyInfo>
+        <CName></CName>
+        <YearFounded>1998</YearFounded>
+        <IsPublic>true</IsPublic>
+    </CompanyInfo>
     <Departments>
         <Department>
             <DepartmentID>D001</DepartmentID>
@@ -17,7 +22,6 @@
             <DepartmentID>D003</DepartmentID>
             <DepartmentName>Archive</DepartmentName>
             <HeadCount>0</HeadCount>
-            <Status>Active</Status>
         </Department>
         <Department>
             <DepartmentID>SD001</DepartmentID>
@@ -30,27 +34,7 @@
             <HeadCount>25</HeadCount>
         </Department>
     </Departments>
-    <Employees>
-        <Employee>
-            <EmployeeID>E001</EmployeeID>
-            <FullName>John Doe</FullName>
-        </Employee>
-        <Employee>
-            <EmployeeID>E002</EmployeeID>
-            <FullName>Jane Smith</FullName>
-        </Employee>
-        <Employee>
-            <EmployeeID>E003</EmployeeID>
-            <FullName>Mike Johnson</FullName>
-        </Employee>
-        <Employee>
-            <Status>Inactive</Status>
-            <FullName>GAmer</FullName>
-        </Employee>
-        <Employee>
-            <FullName>Legacy System</FullName>
-            <Status>Deactive</Status>
-            <FullName>Former Employee</FullName>
-        </Employee>
-    </Employees>
+    <Employee>
+        <FullName>Former Employee</FullName>
+    </Employee>
 </Organization>
